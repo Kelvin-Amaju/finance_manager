@@ -67,4 +67,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or suggestions, please open an issue or contact the maintainer at kelvinin112@gmail.com.
+If you have any questions or suggestions, please open an issue or contact the maintainer at linkedin.com/kelvin-anonudo.
